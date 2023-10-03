@@ -11,7 +11,7 @@ library(shinyWidgets) #which deal with large number of otpions by using selectiz
 
 #Global environment..to get the orginal file first before ui or server
 # Read the data from the CSV file
-stock_data <- read.csv("C:/Users/achan/Desktop/myApps/Data/TSX_Ticker.csv")
+stock_data <- read.csv("data/TSX_Ticker.csv")
 
 # Define UIa
 
