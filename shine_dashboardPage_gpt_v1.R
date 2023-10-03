@@ -7,7 +7,7 @@ library(tseries)
 library(ichimoku)
 library(TTR)
 
-
+#Testing via GitHub
 
 
 # Define UIa
